@@ -1,4 +1,4 @@
-let supermarketData = [
+let SupermarketDatas = [
     {
         id: 1,
         image: 'img/SuperMarket/01_Banana_56600.jpg',
@@ -70,4 +70,4 @@ let supermarketData = [
     }
 ]
 
-export default supermarketData;
+export default SupermarketDatas;

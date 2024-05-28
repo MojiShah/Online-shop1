@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: serif;    
-    
+
 }
 
 .nav{
@@ -31,6 +31,7 @@
     color: blue;
     background-color: #fff;
 }
+
 
 .nav .active{
     color: #fff;
